@@ -1,0 +1,13 @@
+{
+  "appId": "com.webtoapp.yk",
+  "appName": "Yk",
+  "webDir": "www",
+  "server": {
+    "url": "https://app-a964vqz93e9t.appmiaoda.com/login",
+    "cleartext": true,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
